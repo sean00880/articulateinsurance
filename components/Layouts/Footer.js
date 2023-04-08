@@ -138,6 +138,7 @@ const Footer = () => {
                     <a href="mailto:support@pungent.com">support@articulateinsurance.com</a>
                   </li>
                 </ul>
+                <h6>Website by:<a href="https://www.sitedominion.com">Site Dominion LLC</a></h6>
               </div>
             </div>
           </div>
